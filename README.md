@@ -1,5 +1,7 @@
-Segunda versão de Foo
-FOOC FOOC
--------------------------
-FOO com um novo texto
-Aqui temos outro texto do foo
+FOO blank
+
+Linha pulada no foo
+Testar foo diff 3
+
+
+GIt git
